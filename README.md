@@ -1,4 +1,5 @@
 # Tkinter × SQLite ユーザー管理アプリ
+<img width="376" height="457" alt="スクリーンショット 2026-09-29 23 01 38" src="https://github.com/user-attachments/assets/93141ced-f4b3-4e41-9559-ea0d3bb86610" />
 
 Python学習の実践として制作した、ユーザー名を管理するGUIアプリです。
 
