@@ -5,7 +5,7 @@ from tkinter import messagebox
 # SQLiteを使えるようにする
 import sqlite3
 root = tk.Tk()
-root.title("ユーザー管理")
+root.title("ユーザー管理アプリ")
 # SQLiteデータベースに接続
 conn = sqlite3.connect("new_users.db")
 # データベースの行を列名で取得できるようにする
